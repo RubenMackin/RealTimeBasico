@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "774634220748",
+    "project_id": "realtimebasico-bd206",
+    "storage_bucket": "realtimebasico-bd206.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:774634220748:android:a9091b8983223cd4352669",
+        "android_client_info": {
+          "package_name": "com.rubenmackin.realtimebasico"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSDC5e-CY2dlJdf5GI7UkrF2RCj4rk0rM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
